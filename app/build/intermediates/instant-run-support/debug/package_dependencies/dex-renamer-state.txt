@@ -1,0 +1,4 @@
+#Sat Jan 20 16:08:14 EST 2018
+base.0=/Users/fernandorafaelnarbona/AndroidStudioProjects/FlappyBird-master-android/app/build/intermediates/transforms/dexMerger/debug/11
+path.0=classes.dex
+renamed.0=classes.dex
